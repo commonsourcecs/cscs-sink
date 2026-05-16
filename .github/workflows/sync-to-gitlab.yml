@@ -16,6 +16,6 @@ jobs:
           # The following can be omitted if the GitLab owner is the same as the GitHub owner
           owner: cscs
           # The following can be omitted if the GitLab repo is the same as the GitHub repo
-          repository_name: PaperKnife
+          repository_name: cscs-sink
           # Optional. The GitLab branch name to snyc to. If not set, the GitHub branch name is used.
           branch: upstream
