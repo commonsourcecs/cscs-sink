@@ -1,3 +1,6 @@
+# GH
+.github/
+
 # Nuxt dev/build outputs
 .output
 .data
